@@ -11,7 +11,7 @@ import (
 	"strings"
 
 	"github.com/julienschmidt/httprouter"
-	"github.com/yagofuruta/greenlight/internal/validator"
+	"github.com/yagoyudi/greenlight/internal/validator"
 )
 
 type envelope map[string]any

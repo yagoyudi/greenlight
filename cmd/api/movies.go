@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/yagofuruta/greenlight/internal/data"
-	"github.com/yagofuruta/greenlight/internal/validator"
+	"github.com/yagoyudi/greenlight/internal/data"
+	"github.com/yagoyudi/greenlight/internal/validator"
 )
 
 // createMovieHandler create a new movie in the database.

@@ -1,4 +1,4 @@
-module github.com/yagofuruta/greenlight
+module github.com/yagoyudi/greenlight
 
 go 1.22.7
 
